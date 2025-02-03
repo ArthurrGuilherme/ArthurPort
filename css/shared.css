@@ -3,10 +3,11 @@
     letter-spacing: -2px;
     text-transform: uppercase;
     font-weight: 900;
+    cursor: pointer;
 
     background: linear-gradient(45deg, #000, #8B0000, #B22222);
-    background-size: 200% 100%;
-    animation: degrade 2s linear infinite alternate;
+    background-size: 210% 100%;
+    animation: degrade 1.5s linear infinite alternate;
 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
