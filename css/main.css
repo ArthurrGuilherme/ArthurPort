@@ -1,3 +1,16 @@
 .TextoPrincipal h1 {
-    font-size: 4.5rem;
+    font-size: 4rem;
+}
+.BtnRedes {
+    color: var(--primary-color); 
+    font-weight: 800;
+}
+#Git:hover {
+    color: var(--bs-black);
+}
+#Link:hover {
+    color: #0A66C2;
+}
+#curriculo:hover {
+    color: #a2811c;
 }

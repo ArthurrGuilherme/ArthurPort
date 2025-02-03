@@ -8,3 +8,6 @@
     font-weight: weight;
     font-style: normal;
 }
+:root {
+    --primary-color: #8B0000;
+}
