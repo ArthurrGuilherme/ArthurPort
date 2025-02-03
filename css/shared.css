@@ -1,0 +1,21 @@
+.texto {
+    font-size: 1.9rem;
+    letter-spacing: -2px;
+    text-transform: uppercase;
+    font-weight: 900;
+
+    background: linear-gradient(45deg, #000, #8B0000, #B22222);
+    background-size: 200% 100%;
+    animation: degrade 2s linear infinite alternate;
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@keyframes degrade {
+    0% {
+        background-position-x: 0% 0%;
+    }
+    100% {
+        background-position: 100% 0%;
+    }
+}
