@@ -2,26 +2,56 @@ ScrollReveal({ reset: true });
 
 ScrollReveal().reveal('.TextoPrincipal', 
     {    
-        duration: 700, reset: false, distance: '100px' , origin: 'left',
+        duration: 400, reset: false, distance: '100px' , origin: 'left',
     }
 );
 ScrollReveal().reveal('#Git', 
     {    
-        delay: 600, reset: false, distance: '100px' , origin: 'left',
+        delay: 500, reset: false, distance: '100px' , origin: 'left',
     }
 );
 ScrollReveal().reveal('#Link', 
     {    
-        delay: 700, reset: false, distance: '100px' , origin: 'left',
+        delay: 600, reset: false, distance: '100px' , origin: 'left',
     }
 );
 ScrollReveal().reveal('#curriculo', 
     {    
-        delay: 900, reset: false, distance: '100px' , origin: 'left',
+        delay: 700, reset: false, distance: '100px' , origin: 'left',
     }
 );
 ScrollReveal().reveal('#Mouse', 
     {    
         delay: 2000, reset: false,
+    }
+);
+ScrollReveal().reveal('#Foto02', 
+    {    
+        duration: 1000, reset: true, distance: '100px' , origin: 'left',
+    }
+);
+ScrollReveal().reveal('.texto02', 
+    {    
+        duration: 1000, reset: true, distance: '100px' , origin: 'rigth',
+    }
+);
+ScrollReveal().reveal('.Icons01', 
+    {    
+        duration: 1000, reset: true, distance: '100px' , origin: 'bottom',
+    }
+);
+ScrollReveal().reveal('.Icons02', 
+    {    
+        duration: 1200, reset: true, distance: '100px' , origin: 'bottom',
+    }
+);
+ScrollReveal().reveal('.Icons03', 
+    {    
+        duration: 1400, reset: true, distance: '100px' , origin: 'bottom',
+    }
+);
+ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '100px' , origin: 'bottom',
     }
 );
