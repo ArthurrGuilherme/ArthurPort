@@ -37,21 +37,51 @@ ScrollReveal().reveal('.texto02',
 );
 ScrollReveal().reveal('.Icons01', 
     {    
-        duration: 1000, reset: true, distance: '100px' , origin: 'bottom',
+        duration: 1000, reset: true, distance: '50px' , origin: 'bottom',
     }
 );
 ScrollReveal().reveal('.Icons02', 
     {    
-        duration: 1200, reset: true, distance: '100px' , origin: 'bottom',
+        duration: 1200, reset: true, distance: '50px' , origin: 'bottom',
     }
 );
 ScrollReveal().reveal('.Icons03', 
     {    
-        duration: 1400, reset: true, distance: '100px' , origin: 'bottom',
+        duration: 1400, reset: true, distance: '50px' , origin: 'bottom',
     }
 );
 ScrollReveal().reveal('.Icons04', 
     {    
-        duration: 1600, reset: true, distance: '100px' , origin: 'bottom',
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);
+
+ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
+    }
+);ScrollReveal().reveal('.Icons04', 
+    {    
+        duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
 );
