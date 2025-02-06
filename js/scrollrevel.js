@@ -56,31 +56,31 @@ ScrollReveal().reveal('.Icons04',
     }
 );
 
-ScrollReveal().reveal('.Icons04', 
+ScrollReveal().reveal('#Balao01', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
-);ScrollReveal().reveal('.Icons04', 
+);ScrollReveal().reveal('#Balao02', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
-);ScrollReveal().reveal('.Icons04', 
+);ScrollReveal().reveal('#Balao03', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
-);ScrollReveal().reveal('.Icons04', 
+);ScrollReveal().reveal('#Balao04', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
-);ScrollReveal().reveal('.Icons04', 
+);ScrollReveal().reveal('#Balao05', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
-);ScrollReveal().reveal('.Icons04', 
+);ScrollReveal().reveal('#Balao06', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
-);ScrollReveal().reveal('.Icons04', 
+);ScrollReveal().reveal('#Balao07', 
     {    
         duration: 1600, reset: true, distance: '50px' , origin: 'bottom',
     }
